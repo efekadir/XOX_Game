@@ -1,5 +1,10 @@
 # XOX_Game
-A complete, console-based Tic-Tac-Toe (XOX) game in Java. It features a PvP mode and a PvE mode against a computer with three difficulty levels: Easy, Hard, and Impossible. The 'Impossible' AI utilizes an advanced custom heuristic algorithm to block player traps, control the center, and secure strategic forks, making it practically unbeatable. It also includes a continuous match scoring system.
+A fully featured, console-based Tic-Tac-Toe game written in Java. It includes a continuous scoring system and allows you to play multiple rounds without restarting the application.
+
+**Key Features:**
+* **Two Game Modes:** Play locally against a friend (Player vs. Player) or challenge the computer (Player vs. Computer).
+* **Three AI Difficulties:** Choose between Easy, Hard, and Impossible levels.
+* **Unbeatable AI Algorithm:** The 'Impossible' difficulty uses a custom algorithm designed to control the center, block player traps, and secure winning forks, making the computer practically impossible to defeat.
 
 ## Example Output
 ```text

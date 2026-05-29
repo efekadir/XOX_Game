@@ -1,4 +1,4 @@
-#XOX_Game
+# XOX_Game
 A fully featured, console-based Tic-Tac-Toe game written in Java. It includes a continuous scoring system and allows you to play multiple rounds without restarting the application.
 
 **Key Features:**
